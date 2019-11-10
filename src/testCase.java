@@ -4,5 +4,8 @@ public class testCase {
         System.out.println("HI HI");
         System.out.println("HI HI");
         System.out.println("HI HI");
+        
+        if(true){
+        }
     }
 }
