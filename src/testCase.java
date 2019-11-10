@@ -7,5 +7,10 @@ public class testCase {
         
         if(true){
         }
+         if(true){
+        }
+         if(true){
+        }
+        
     }
 }
